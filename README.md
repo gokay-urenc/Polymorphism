@@ -1,0 +1,2 @@
+# Polymorphism
+ Çok biçimlilik. / Polymorphism.

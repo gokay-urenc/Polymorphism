@@ -1,0 +1,20 @@
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Polymorphism(Cok Bicimlilik)\Polymorphism(Cok Bicimlilik)\bin\Debug\Polymorphism(Cok Bicimlilik).exe.config
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Polymorphism(Cok Bicimlilik)\Polymorphism(Cok Bicimlilik)\bin\Debug\Polymorphism(Cok Bicimlilik).exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Polymorphism(Cok Bicimlilik)\Polymorphism(Cok Bicimlilik)\bin\Debug\Polymorphism(Cok Bicimlilik).pdb
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Polymorphism(Cok Bicimlilik)\Polymorphism(Cok Bicimlilik)\obj\Debug\Polymorphism(Cok Bicimlilik).csprojResolveAssemblyReference.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Polymorphism(Cok Bicimlilik)\Polymorphism(Cok Bicimlilik)\obj\Debug\Polymorphism_Cok_Bicimlilik_.Form1.resources
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Polymorphism(Cok Bicimlilik)\Polymorphism(Cok Bicimlilik)\obj\Debug\Polymorphism_Cok_Bicimlilik_.Properties.Resources.resources
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Polymorphism(Cok Bicimlilik)\Polymorphism(Cok Bicimlilik)\obj\Debug\Polymorphism(Cok Bicimlilik).csproj.GenerateResource.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Polymorphism(Cok Bicimlilik)\Polymorphism(Cok Bicimlilik)\obj\Debug\Polymorphism(Cok Bicimlilik).csproj.CoreCompileInputs.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Polymorphism(Cok Bicimlilik)\Polymorphism(Cok Bicimlilik)\obj\Debug\Polymorphism(Cok Bicimlilik).exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Polymorphism(Cok Bicimlilik)\Polymorphism(Cok Bicimlilik)\obj\Debug\Polymorphism(Cok Bicimlilik).pdb
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Polymorphism(Cok Bicimlilik)\Polymorphism(Cok Bicimlilik)\bin\Debug\Polymorphism(Cok Bicimlilik).exe.config
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Polymorphism(Cok Bicimlilik)\Polymorphism(Cok Bicimlilik)\bin\Debug\Polymorphism(Cok Bicimlilik).exe
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Polymorphism(Cok Bicimlilik)\Polymorphism(Cok Bicimlilik)\bin\Debug\Polymorphism(Cok Bicimlilik).pdb
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Polymorphism(Cok Bicimlilik)\Polymorphism(Cok Bicimlilik)\obj\Debug\Polymorphism(Cok Bicimlilik).csprojAssemblyReference.cache
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Polymorphism(Cok Bicimlilik)\Polymorphism(Cok Bicimlilik)\obj\Debug\Polymorphism_Cok_Bicimlilik_.Form1.resources
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Polymorphism(Cok Bicimlilik)\Polymorphism(Cok Bicimlilik)\obj\Debug\Polymorphism_Cok_Bicimlilik_.Properties.Resources.resources
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Polymorphism(Cok Bicimlilik)\Polymorphism(Cok Bicimlilik)\obj\Debug\Polymorphism(Cok Bicimlilik).csproj.GenerateResource.cache
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Polymorphism(Cok Bicimlilik)\Polymorphism(Cok Bicimlilik)\obj\Debug\Polymorphism(Cok Bicimlilik).csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Polymorphism(Cok Bicimlilik)\Polymorphism(Cok Bicimlilik)\obj\Debug\Polymorphism(Cok Bicimlilik).exe
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Polymorphism(Cok Bicimlilik)\Polymorphism(Cok Bicimlilik)\obj\Debug\Polymorphism(Cok Bicimlilik).pdb
